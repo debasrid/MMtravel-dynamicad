@@ -1,0 +1,56 @@
+{
+    "Product": [{
+        "subTitle": "Destination City 0 Text",
+        "price": "",
+        "salePrice": "",
+        "salePercentDiscount": "0.115191987",
+        "regularPrice": "",
+        "name": "",
+        "defaultPrice": ""
+    }, {
+        "name": "Title 1 Text",
+        "subTitle": "Destination City 1 Text",
+        "description": "Origin City 1 Text",
+        "price": "$299.00",
+        "salePrice": "$200.00",
+        "salePercentDiscount": "0.163879599",
+        "imageUrl": "http://www.gstatic.com/ads/standard_schemas/resources/product_1_square.png",
+        "url": "https://www.google.com/search?q=product+1"
+    }, {
+        "name": "Title 2 Text",
+        "subTitle": "Destination City 2 Text",
+        "description": "Origin City 2 Text",
+        "price": "$649.00",
+        "salePrice": "$625.00",
+        "salePercentDiscount": "0.036979969",
+        "imageUrl": "http://www.gstatic.com/ads/standard_schemas/resources/product_2_square.png",
+        "url": "https://www.google.com/search?q=product+2"
+    }, {
+        "name": "Title 3 Text",
+        "subTitle": "Destination City 3 Text",
+        "description": "Origin City 3 Text",
+        "price": "$149.00",
+        "salePrice": "$145.00",
+        "salePercentDiscount": "0.026845637",
+        "imageUrl": "http://www.gstatic.com/ads/standard_schemas/resources/product_3_square.png",
+        "url": "https://www.google.com/search?q=product+3"
+    }, {
+        "name": "Title 4 Text",
+        "subTitle": "Destination City 4 Text",
+        "description": "Origin City 4 Text",
+        "price": "$1399.00",
+        "salePrice": "$1200.00",
+        "salePercentDiscount": "0.142244460",
+        "imageUrl": "http://www.gstatic.com/ads/standard_schemas/resources/product_4_square.png",
+        "url": "https://www.google.com/search?q=product+4"
+    }, {
+        "name": "Title 5 Text",
+        "subTitle": "Destination City 5 Text",
+        "description": "Origin City 5 Text",
+        "price": "$739.00",
+        "salePrice": "$685.00",
+        "salePercentDiscount": "0.073071719",
+        "imageUrl": "http://www.gstatic.com/ads/standard_schemas/resources/product_5_square.png",
+        "url": "https://www.google.com/search?q=product+5"
+    }]
+}
